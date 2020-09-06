@@ -1,0 +1,30 @@
+D:\Dushyant\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe.config
+D:\Dushyant\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe
+D:\Dushyant\Image Gallery Demo\bin\Debug\Image Gallery Demo.pdb
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Zip.4.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.4.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.dll
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Zip.4.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.4.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.xml
+D:\Dushyant\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.xml
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.ImageGalleryForm.resources
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.Properties.Resources.resources
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.GenerateResource.cache
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe.licenses
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CoreCompileInputs.cache
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CopyComplete
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe
+D:\Dushyant\Image Gallery Demo\obj\Debug\Image Gallery Demo.pdb
